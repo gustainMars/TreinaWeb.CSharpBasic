@@ -1,0 +1,11 @@
+C:\Users\Gustavo\source\repos\InferencePlusDynamic\bin\Debug\netcoreapp2.2\InferencePlusDynamic.deps.json
+C:\Users\Gustavo\source\repos\InferencePlusDynamic\bin\Debug\netcoreapp2.2\InferencePlusDynamic.runtimeconfig.json
+C:\Users\Gustavo\source\repos\InferencePlusDynamic\bin\Debug\netcoreapp2.2\InferencePlusDynamic.runtimeconfig.dev.json
+C:\Users\Gustavo\source\repos\InferencePlusDynamic\bin\Debug\netcoreapp2.2\InferencePlusDynamic.dll
+C:\Users\Gustavo\source\repos\InferencePlusDynamic\bin\Debug\netcoreapp2.2\InferencePlusDynamic.pdb
+C:\Users\Gustavo\source\repos\InferencePlusDynamic\obj\Debug\netcoreapp2.2\InferencePlusDynamic.csprojAssemblyReference.cache
+C:\Users\Gustavo\source\repos\InferencePlusDynamic\obj\Debug\netcoreapp2.2\InferencePlusDynamic.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\InferencePlusDynamic\obj\Debug\netcoreapp2.2\InferencePlusDynamic.AssemblyInfoInputs.cache
+C:\Users\Gustavo\source\repos\InferencePlusDynamic\obj\Debug\netcoreapp2.2\InferencePlusDynamic.AssemblyInfo.cs
+C:\Users\Gustavo\source\repos\InferencePlusDynamic\obj\Debug\netcoreapp2.2\InferencePlusDynamic.dll
+C:\Users\Gustavo\source\repos\InferencePlusDynamic\obj\Debug\netcoreapp2.2\InferencePlusDynamic.pdb
