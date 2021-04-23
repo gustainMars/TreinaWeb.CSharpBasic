@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gustavo\\source\\repos\\TreinaWeb\\CSharpBasic\\HelloWorld.csproj": {}
+    "C:\\Users\\Gustavo\\source\\repos\\TreinaWeb\\StudyingStrings\\StudyingStrings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gustavo\\source\\repos\\TreinaWeb\\CSharpBasic\\HelloWorld.csproj": {
+    "C:\\Users\\Gustavo\\source\\repos\\TreinaWeb\\StudyingStrings\\StudyingStrings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gustavo\\source\\repos\\TreinaWeb\\CSharpBasic\\HelloWorld.csproj",
-        "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\Gustavo\\source\\repos\\TreinaWeb\\CSharpBasic\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\Gustavo\\source\\repos\\TreinaWeb\\StudyingStrings\\StudyingStrings.csproj",
+        "projectName": "StudyingStrings",
+        "projectPath": "C:\\Users\\Gustavo\\source\\repos\\TreinaWeb\\StudyingStrings\\StudyingStrings.csproj",
         "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gustavo\\source\\repos\\TreinaWeb\\CSharpBasic\\obj\\",
+        "outputPath": "C:\\Users\\Gustavo\\source\\repos\\TreinaWeb\\StudyingStrings\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,15 +21,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
-            "targetAlias": "netcoreapp2.2",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -40,16 +40,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
-          "targetAlias": "netcoreapp2.2",
-          "dependencies": {
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
-            }
-          },
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
@@ -60,6 +52,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }

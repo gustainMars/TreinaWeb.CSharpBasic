@@ -1,0 +1,16 @@
+C:\Users\Gustavo\source\repos\TreinaWeb\StudyingStrings\bin\Debug\net5.0\StudyingStrings.exe
+C:\Users\Gustavo\source\repos\TreinaWeb\StudyingStrings\bin\Debug\net5.0\StudyingStrings.deps.json
+C:\Users\Gustavo\source\repos\TreinaWeb\StudyingStrings\bin\Debug\net5.0\StudyingStrings.runtimeconfig.json
+C:\Users\Gustavo\source\repos\TreinaWeb\StudyingStrings\bin\Debug\net5.0\StudyingStrings.runtimeconfig.dev.json
+C:\Users\Gustavo\source\repos\TreinaWeb\StudyingStrings\bin\Debug\net5.0\StudyingStrings.dll
+C:\Users\Gustavo\source\repos\TreinaWeb\StudyingStrings\bin\Debug\net5.0\ref\StudyingStrings.dll
+C:\Users\Gustavo\source\repos\TreinaWeb\StudyingStrings\bin\Debug\net5.0\StudyingStrings.pdb
+C:\Users\Gustavo\source\repos\TreinaWeb\StudyingStrings\obj\Debug\net5.0\StudyingStrings.csprojAssemblyReference.cache
+C:\Users\Gustavo\source\repos\TreinaWeb\StudyingStrings\obj\Debug\net5.0\StudyingStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\source\repos\TreinaWeb\StudyingStrings\obj\Debug\net5.0\StudyingStrings.AssemblyInfoInputs.cache
+C:\Users\Gustavo\source\repos\TreinaWeb\StudyingStrings\obj\Debug\net5.0\StudyingStrings.AssemblyInfo.cs
+C:\Users\Gustavo\source\repos\TreinaWeb\StudyingStrings\obj\Debug\net5.0\StudyingStrings.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\TreinaWeb\StudyingStrings\obj\Debug\net5.0\StudyingStrings.dll
+C:\Users\Gustavo\source\repos\TreinaWeb\StudyingStrings\obj\Debug\net5.0\ref\StudyingStrings.dll
+C:\Users\Gustavo\source\repos\TreinaWeb\StudyingStrings\obj\Debug\net5.0\StudyingStrings.pdb
+C:\Users\Gustavo\source\repos\TreinaWeb\StudyingStrings\obj\Debug\net5.0\StudyingStrings.genruntimeconfig.cache
